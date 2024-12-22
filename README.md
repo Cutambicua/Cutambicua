@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Jacinta Cutambicua
 
-<!--
-**Cutambicua/Cutambicua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 💻 Desenvolvedor(a) focado(a) em **desenvolvimento web**.
+- 🌱 Atualmente aprendendo **Laravel**, **JavaScript** e **React.js**.
+- 🎯 Meu objetivo: **me tornar uma grande profissional no desenvolvimento web**.
 
-Here are some ideas to get you started:
+  
+## 🛠 Tecnologias e Ferramentas
+- **Linguagens:** HTML, CSS, PHP  
+- **Ferramentas:** VS Code, GitHub  
+- **Frameworks e Bibliotecas:** Bootstrap  
+- **Aprendendo:** JavaScript, React.js, Laravel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecte-se comigo
+- 🌎 [Meu LinkedIn](https://www.linkedin.com/in/jacinta-cutambicua-88a63a26a/)
+- 📫 E-mail: [jacintacelestinocutambicua@gmail.com](mailto:jacintacelestinocutambicua@gmail.com)
+
+
